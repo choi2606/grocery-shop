@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "grocery_admin_panel",
+            "cwd": "grocery_admin_panel",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "grocery_admin_panel (profile mode)",
+            "cwd": "grocery_admin_panel",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "grocery_admin_panel (release mode)",
+            "cwd": "grocery_admin_panel",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "grocery_shop_app",
+            "cwd": "grocery_shop_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "grocery_shop_app (profile mode)",
+            "cwd": "grocery_shop_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "grocery_shop_app (release mode)",
+            "cwd": "grocery_shop_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

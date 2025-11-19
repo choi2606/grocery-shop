@@ -1,0 +1,97 @@
+import 'package:flutter/material.dart';
+
+import '../widgets/text_widget.dart';
+
+class GlobalMethods {
+  static navigateTo({required BuildContext ctx, required String routeName}) {
+    Navigator.pushNamed(ctx, routeName);
+  }
+
+  static Future<void> warningDialog({
+    required String title,
+    required String subtitle,
+    required Function fct,
+    required BuildContext context,
+  }) async {
+    await showDialog(
+        context: context,
+        builder: (context) {
+          return AlertDialog(
+            title: Row(children: [
+              const Icon(
+                Icons.warning_amber_rounded,
+                color: Colors.orange,
+                size: 24,
+              ),
+              const SizedBox(
+                width: 8,
+              ),
+              Text(title),
+            ]),
+            content: Text(subtitle),
+            actions: [
+              TextButton(
+                onPressed: () {
+                  if (Navigator.canPop(context)) {
+                    Navigator.pop(context);
+                  }
+                },
+                child: TextWidget(
+                  color: Colors.cyan,
+                  text: 'Cancel',
+                  textSize: 18,
+                ),
+              ),
+              TextButton(
+                onPressed: () {
+                  fct();
+                },
+                child: TextWidget(
+                  color: Colors.red,
+                  text: 'OK',
+                  textSize: 18,
+                ),
+              ),
+            ],
+          );
+        });
+  }
+
+  static Future<void> errorDialog({
+    required String subtitle,
+    required BuildContext context,
+  }) async {
+    await showDialog(
+        context: context,
+        builder: (context) {
+          return AlertDialog(
+            title: Row(children: [
+              const Icon(
+                Icons.error_outline,
+                color: Colors.redAccent,
+                size: 24,
+              ),
+              const SizedBox(
+                width: 8,
+              ),
+              const Text('An Error occured'),
+            ]),
+            content: Text(subtitle),
+            actions: [
+              TextButton(
+                onPressed: () {
+                  if (Navigator.canPop(context)) {
+                    Navigator.pop(context);
+                  }
+                },
+                child: TextWidget(
+                  color: Colors.cyan,
+                  text: 'Ok',
+                  textSize: 18,
+                ),
+              ),
+            ],
+          );
+        });
+  }
+}
