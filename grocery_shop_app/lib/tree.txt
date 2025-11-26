@@ -1,0 +1,85 @@
+Folder PATH listing for volume Windows
+Volume serial number is FC4A-0358
+C:.
+|   fetch_screen.dart
+|   firebase_options.dart
+|   main.dart
+|   tree.txt
+|   
++---consts
+|       constss.dart
+|       firebase_const.dart
+|       theme_data.dart
+|       
++---controllers
+|       MenuController.dart
+|       
++---inner_screens
+|       cat_screen.dart
+|       feeds_screen.dart
+|       on_sale_screen.dart
+|       product_details.dart
+|       
++---models
+|       cart_model.dart
+|       order_model.dart
+|       products_model.dart
+|       viewed_model.dart
+|       wishlist_model.dart
+|       
++---provider
+|       dark_theme_provider.dart
+|       
++---providers
+|       cart_provider.dart
+|       orders_provider.dart
+|       products_provider.dart
+|       viewed_prod_provider.dart
+|       wishlist_provider.dart
+|       
++---screens
+|   |   btm_bar.dart
+|   |   categories.dart
+|   |   home_screen.dart
+|   |   loading_manager.dart
+|   |   user.dart
+|   |   
+|   +---auth
+|   |       forget_pass.dart
+|   |       login.dart
+|   |       register.dart
+|   |       
+|   +---cart
+|   |       cart_screen.dart
+|   |       cart_widget.dart
+|   |       
+|   +---orders
+|   |       orders_screen.dart
+|   |       orders_widget.dart
+|   |       
+|   +---viewed_recently
+|   |       viewed_recently.dart
+|   |       viewed_widget.dart
+|   |       
+|   \---wishlist
+|           wishlist_screen.dart
+|           wishlist_widget.dart
+|           
++---services
+|       dark_theme_prefs.dart
+|       global_methods.dart
+|       utils.dart
+|       
+\---widgets
+        auth_button.dart
+        back_widget.dart
+        categories_widget.dart
+        empty_products_widget.dart
+        empty_screen.dart
+        feed_items.dart
+        google_button.dart
+        heart_btn.dart
+        on_sale_widget.dart
+        price_widget.dart
+        text_widget.dart
+        

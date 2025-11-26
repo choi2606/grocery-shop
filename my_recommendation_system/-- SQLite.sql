@@ -1,0 +1,1 @@
+DELETE FROM collector_log WHERE id = 100001; 
