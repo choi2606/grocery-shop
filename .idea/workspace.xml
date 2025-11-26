@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8becfd71-b19a-4368-a7d0-b2d008253b4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/analysis_options.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/analysis_options.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/kotlin/com/example/grocery_admin_panel/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/kotlin/com/example/grocery_admin_panel/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/res/values-night/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/GoogleService-Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/RunnerTests/RunnerTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/ios/firebase_app_id_file.json" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/ios/firebase_app_id_file.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/consts/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/consts/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/consts/theme_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/consts/theme_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/controllers/MenuControllerr.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/controllers/MenuControllerr.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/generated_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/generated_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/inner_screens/add_prod.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/inner_screens/add_prod.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/inner_screens/all_orders_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/inner_screens/all_orders_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/inner_screens/all_products.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/inner_screens/all_products.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/inner_screens/edit_prod.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/inner_screens/edit_prod.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/providers/dark_theme_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/providers/dark_theme_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/responsive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/responsive.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/screens/dashboard_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/screens/dashboard_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/screens/loading_manager.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/screens/loading_manager.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/screens/main_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/screens/main_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/services/dark_them_preferences.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/services/dark_them_preferences.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/services/global_method.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/services/global_method.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/services/utils.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/services/utils.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/buttons.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/buttons.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/grid_products.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/grid_products.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/header.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/header.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/orders_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/orders_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/orders_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/orders_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/products_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/products_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/side_menu.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/side_menu.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/text_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/lib/widgets/text_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/linux/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/linux/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/linux/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/linux/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/linux/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/linux/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/linux/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/linux/my_application.cc" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/linux/my_application.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/linux/my_application.h" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/linux/my_application.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Configs/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/DebugProfile.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/GoogleService-Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/MainFlutterWindow.swift" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Release.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/Runner/Release.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/RunnerTests/RunnerTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/macos/firebase_app_id_file.json" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/macos/firebase_app_id_file.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/web/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/Runner.rc" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/Runner.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/flutter_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/flutter_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/flutter_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/resource.h" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/resource.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/runner.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/utils.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/utils.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/utils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/win32_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/win32_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/win32_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_admin_panel/windows/runner/win32_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/android/app/src/main/kotlin/com/example/grocery_shop_app/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/android/app/src/main/kotlin/com/grocery/app/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/consts/constss.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/consts/constss.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/fetch_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/fetch_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/firebase_options.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/firebase_options.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/inner_screens/cat_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/inner_screens/cat_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/inner_screens/feeds_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/inner_screens/feeds_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/inner_screens/on_sale_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/inner_screens/on_sale_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/inner_screens/product_details.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/inner_screens/product_details.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/providers/cart_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/providers/cart_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/providers/orders_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/providers/orders_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/providers/products_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/providers/products_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/providers/viewed_prod_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/providers/viewed_prod_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/providers/wishlist_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/providers/wishlist_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/auth/forget_pass.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/auth/forget_pass.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/auth/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/auth/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/auth/register.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/auth/register.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/btm_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/btm_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/cart/cart_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/cart/cart_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/cart/cart_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/cart/cart_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/categories.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/categories.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/orders/orders_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/orders/orders_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/orders/orders_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/orders/orders_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/user.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/user.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/viewed_recently/viewed_recently.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/viewed_recently/viewed_recently.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/viewed_recently/viewed_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/viewed_recently/viewed_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/wishlist/wishlist_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/wishlist/wishlist_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/screens/wishlist/wishlist_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/screens/wishlist/wishlist_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/services/global_methods.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/services/global_methods.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/auth_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/auth_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/categories_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/categories_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/empty_products_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/empty_products_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/empty_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/empty_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/feed_items.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/feed_items.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/google_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/google_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/heart_btn.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/heart_btn.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/on_sale_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/on_sale_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/price_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/lib/widgets/price_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/linux/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/linux/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/linux/my_application.cc" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/linux/my_application.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/windows/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/windows/runner/Runner.rc" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/windows/runner/Runner.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocery_shop_app/windows/runner/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/grocery_shop_app/windows/runner/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;choi2606&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/offfahad/grocery-shopping-app&quot;,
+    &quot;accountId&quot;: &quot;1960b4ca-d58c-4cbd-8caf-6d5618dfd401&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="35Z1tboghisfLWB7lq4MDaR6HFk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/FlutterApp/grocery-shopping-app&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/grocery_shop_app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8becfd71-b19a-4368-a7d0-b2d008253b4b" name="Changes" comment="" />
+      <created>1763302996776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763302996776</updated>
+    </task>
+    <servers />
+  </component>
+</project>

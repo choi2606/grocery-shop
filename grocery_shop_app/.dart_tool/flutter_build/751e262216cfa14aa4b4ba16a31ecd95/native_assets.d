@@ -1,0 +1,1 @@
+ C:\\Workspace\\FlutterApp\\grocery-shopping-app\\grocery_shop_app\\.dart_tool\\flutter_build\\751e262216cfa14aa4b4ba16a31ecd95\\native_assets.yaml: 
