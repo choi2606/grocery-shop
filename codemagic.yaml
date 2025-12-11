@@ -7,15 +7,25 @@ workflows:
       flutter: stable
       xcode: latest
     scripts:
-      - name: Build iOS Debug (for real device testing)
+      - name: Clean and prepare iOS
         script: |
           cd grocery_shop_app
           flutter clean
           flutter pub get
+
+          cd ios
+          sed -i '' 's/platform :ios, .*/platform :ios, "13.0"/' Podfile
+          rm -rf Pods Podfile.lock
+          pod repo update
+          pod install
+          cd ..
+
+      - name: Build iOS Debug (for real device)
+        script: |
+          cd grocery_shop_app
           flutter build ios --debug --no-codesign
     artifacts:
       - build/ios/iphoneos/*.app
-      - $HOME/Library/Developer/Xcode/DerivedData/**/Build/Products/Debug-iphoneos/*.app
     publishing:
       scripts:
         - echo "Build completed – Devices tab now enabled"
