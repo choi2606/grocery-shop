@@ -6,18 +6,22 @@ workflows:
     environment:
       flutter: stable
       xcode: latest
-    triggering:
-      events:
-        - push
-        - tag
-        - pull_request
-      branch_patterns:
-        - pattern: '*'
-          include: true
     scripts:
-      - cd grocery_shop_app  # Chuyển vào thư mục app Flutter
-      - flutter pub get      # Cài dependencies
-      - flutter build ios --debug --no-codesign  # Build debug cho iOS (không cần signing cho Connect)
+      - push
+      - tag
+      - pull_request
+    scripts:
+      - name: Verify directory & run Flutter commands
+        script: |
+          echo "Current directory:"
+          pwd
+          ls -la
+          echo "=== Entering grocery_shop_app ==="
+          cd grocery_shop_app
+          pwd
+          ls -la
+          flutter pub get
+          flutter build ios --debug --no-codesign
     artifacts:
-      - build/ios/iphoneos/*.app  # Lưu .app cho device
+      - build/ios/iphoneos/*.app
       - $HOME/Library/Developer/Xcode/DerivedData/**/Build/**/*.app
